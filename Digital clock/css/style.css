@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+.clock{
+    color: lime;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 60px;
+    font-family:'Courier New', Courier, monospace;
+    letter-spacing: 7px;
+}
